@@ -1,1 +1,2 @@
 MyAssetsRepository
+Game ssets repository.
